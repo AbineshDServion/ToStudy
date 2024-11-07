@@ -1,1 +1,3 @@
 Hi, I have started to learn git.
+
+Learn Git, we need to complete within this weekend.
