@@ -1,1 +1,3 @@
 Hi, I have started to learn git.
+
+its second day, we can complete slowly, we have time.
