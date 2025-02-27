@@ -1,0 +1,11 @@
+Hi, I have started to learn git.
+
+its second day, we can complete slowly, we have time.
+
+Learn Git, we need to complete within this weekend.
+
+Whats the status? I need in Java code within Today EOD.
+
+
+system.out.println("we are good to complete");
+
